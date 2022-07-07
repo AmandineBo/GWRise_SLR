@@ -2,7 +2,8 @@
 """
 Created on Wed Jul  6 14:48:43 2022
 
-@author: abo132
+@author: Bosserelle A. et al. 2022 
+https://doi.org/10.1029/2021EF002580
 """
 
 import numpy as np
